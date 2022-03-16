@@ -1,6 +1,10 @@
-# Binary Search Visualization using the Recursion Algorithm
+# Binary Search Visualization using the Recursion Algorithm:
 
-## Built With:
+## Description:
+
+This Binary Search Visualization program uses recursion to find a given target number within a sorted array.
+
+### Built With:
 
 HTML
 CSS
