@@ -10,3 +10,7 @@ HTML
 CSS
 JavaScript 
 
+#### Live Demo:
+
+https://binarysearchvis.netlify.app/
+
